@@ -8,7 +8,7 @@ import Header from './components/Header/Header';
 import Sidebar from './components/Sidebar/Sidebar';
 import Footer from './components/Footer/Footer';
 
-import store from "./store/store";
+import store from "./store/store"; 
 import {Provider} from "react-redux";
 
 function App() {
